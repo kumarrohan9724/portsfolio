@@ -197,6 +197,10 @@ section {
   font-size: 2rem;
   color: #fff;
 }
+.about .row .counter .box h5 {
+  font-size: 1rem;
+  color: #fff;
+}
 .education .box-container {
   display: flex;
   align-items: center;
