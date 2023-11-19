@@ -199,7 +199,7 @@ section {
 }
 .about .row .counter .box h5 {
   font-size: 1rem;
-  color: #fff;
+  color: var(--yellow);
 }
 .education .box-container {
   display: flex;
